@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//package studentInfo
 
   class StudentInfo {
         String name;
